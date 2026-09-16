@@ -1,0 +1,42 @@
+[
+  {
+    "id": "cart-f8ba35aa-2808-4764-af41-4a1fdfa75192",
+    "userId": "vero_client_1789520755389@test.com",
+    "productId": "prod-royal-emerald-ring",
+    "quantity": 1,
+    "selectedSize": "54",
+    "selectedMaterial": "Gold 18K",
+    "selectedColor": null,
+    "createdAt": "2026-09-16T01:05:55.600Z"
+  },
+  {
+    "id": "cart-da81d557-2d03-45d3-a445-f3ad21e85601",
+    "userId": "vip_1789520895024@vero-client.com",
+    "productId": "prod-royal-emerald-ring",
+    "quantity": 2,
+    "selectedSize": "56",
+    "selectedMaterial": "Gold 24K",
+    "selectedColor": null,
+    "createdAt": "2026-09-16T01:08:15.227Z"
+  },
+  {
+    "id": "cart-2630b11f-1eb5-421b-b392-a5e0179876c3",
+    "userId": "verify_1789521424455@vero-luxury.com",
+    "productId": "prod-royal-emerald-ring",
+    "quantity": 1,
+    "selectedSize": "54",
+    "selectedMaterial": "Platinum",
+    "selectedColor": null,
+    "createdAt": "2026-09-16T01:17:04.486Z"
+  },
+  {
+    "id": "cart-3356f42c-635d-4911-8843-94ccc8655a57",
+    "userId": "customer_1789521486973@vero.luxury",
+    "productId": "prod-1789521483384",
+    "quantity": 2,
+    "selectedSize": "52",
+    "selectedMaterial": "18k Solid Gold",
+    "selectedColor": null,
+    "createdAt": "2026-09-16T01:18:07.003Z"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "usr-admin-1",
+    "email": "vero2026@vero.com",
+    "name": "VERO Executive Admin",
+    "role": "admin",
+    "tier": "Platinum",
+    "loyaltyPoints": 5000,
+    "totalSpent": 125000,
+    "avatar": "default",
+    "joinedDate": "2026-01-01"
+  },
+  {
+    "id": "usr-admin-2",
+    "email": "admin@vero.com",
+    "name": "VERO System Admin",
+    "role": "admin",
+    "tier": "Platinum",
+    "loyaltyPoints": 5000,
+    "totalSpent": 100000,
+    "avatar": "default",
+    "joinedDate": "2026-01-05"
+  },
+  {
+    "id": "usr-cust-1",
+    "email": "arthurdevelopment101@gmail.com",
+    "name": "Arthur Collector",
+    "role": "customer",
+    "tier": "Gold",
+    "loyaltyPoints": 1250,
+    "totalSpent": 42000,
+    "avatar": "default",
+    "joinedDate": "2026-02-10"
+  },
+  {
+    "id": "usr-cust-2",
+    "email": "customer@vero.com",
+    "name": "VERO Customer",
+    "role": "customer",
+    "tier": "Gold",
+    "loyaltyPoints": 1000,
+    "totalSpent": 25000,
+    "avatar": "default",
+    "joinedDate": "2026-02-14"
+  },
+  {
+    "id": "usr-cust-3",
+    "email": "eleanor@example.com",
+    "name": "Eleanor Vance",
+    "role": "customer",
+    "tier": "Silver",
+    "loyaltyPoints": 680,
+    "totalSpent": 18500,
+    "avatar": "default",
+    "joinedDate": "2026-02-18"
+  },
+  {
+    "id": "usr-cust-4",
+    "email": "sarah.m@example.com",
+    "name": "Sarah Miller",
+    "role": "customer",
+    "tier": "Bronze",
+    "loyaltyPoints": 250,
+    "totalSpent": 4500,
+    "avatar": "default",
+    "joinedDate": "2026-02-24"
+  },
+  {
+    "id": "admin-vero-luxury",
+    "email": "admin@vero.luxury",
+    "name": "VERO Administrator",
+    "role": "admin",
+    "tier": "Bronze",
+    "loyaltyPoints": 250,
+    "totalSpent": 0,
+    "avatar": "default",
+    "joinedDate": "2026-09-16"
+  },
+  {
+    "id": "user-17c11f45-4bc3-4aee-9ab8-719c6d86aed9",
+    "email": "vip_1789520895024@vero-client.com",
+    "name": "سعادة العميل الفاخر",
+    "role": "customer",
+    "tier": "Bronze",
+    "loyaltyPoints": 1000,
+    "totalSpent": 0,
+    "avatar": "default",
+    "joinedDate": "2026-09-16"
+  }
+]
