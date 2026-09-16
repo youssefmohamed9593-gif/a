@@ -1,0 +1,8 @@
+{
+  "name": "Remix ss",
+  "description": "Imported from GitHub: arthurdevelopment101-cmyk/ss",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
